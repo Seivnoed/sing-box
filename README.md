@@ -1,3 +1,14 @@
+你可以 Fork 一份，如果本人一键删库跑路了，你也可以照样正常安装使用
+
+安装命令如下：
+
+wget https://github.com/233boy/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
+记得要把安装命令中的 233boy 更改成你的 Github 用户名
+
+
+
+
+
 # 介绍
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
